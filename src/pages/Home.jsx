@@ -11,7 +11,7 @@ const Home = () => {
           <p className="text-lg max-w-2xl mb-6">
             Experience AI-powered conversations with a sleek and modern chat interface.
           </p>
-          <img src={chat} alt="Chat Preview" className="w-full rounded-lg shadow-lg" />
+          <img src={chat} alt="Chat Preview" className="w-64 h-64 rounded-lg shadow-lg" />
         </div>
         <div className="w-1/2">
           <Chat />
